@@ -1,0 +1,15 @@
+{
+  "name": "ckeckexpressmiddelwaare",
+  "version": "1.0.0",
+  "description": "checkpointexpress",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bechir TABIA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "express-timestamp": "^0.1.4"
+  }
+}
